@@ -33,6 +33,7 @@ namespace trufanov._2021._01._10_1
             Console.WriteLine(100 / 3D);
             Console.WriteLine(100 * 10);
             Console.WriteLine(101 % 10);
+            Console.WriteLine(100 + 1);
 
             Console.WriteLine("_______________________");
 
