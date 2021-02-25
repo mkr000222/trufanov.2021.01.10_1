@@ -40,7 +40,7 @@ namespace trufanov._2021._01._10_1
 
             bool status1 = true;
             bool status2 = false;
-            bool status3 = true;
+            bool status3 = false;
 
             Console.WriteLine(status1 ^ status2);
         }
